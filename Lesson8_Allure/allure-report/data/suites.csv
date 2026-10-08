@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3181","Unsere Buchung verwandeln","","2026-08-05","passed","2026-08-05","","test_booker","",""
+"","982","создание брони","","2026-08-05","passed","2026-08-05","","test_booker","",""
+"","0","получение всех броней","","2026-08-05","skipped","2026-08-05","","test_booker","",""
+"","990","авторизация","","2026-08-05","passed","2026-08-05","","test_booker","",""
+"Привет, ITCH!","3416","Eine Buchung andern","","2026-08-05","passed","2026-08-05","","test_booker","",""
+"","3703","Diese Buchung entfernen","","2026-08-05","passed","2026-08-05","","test_booker","",""
+"","1941","Eine Buchung erhalten","","2026-08-05","passed","2026-08-05","","test_booker","",""
