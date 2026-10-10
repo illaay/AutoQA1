@@ -56,7 +56,7 @@ def test_task2(driver):
     photos_in_gallery = wait.until(EC.visibility_of_all_elements_located(
         (By.CSS_SELECTOR, '#gallery li')
     ))
-    # вариант со условием в until() мог бы пригодиться,
+    # вариант со своим условием в until() мог бы пригодиться,
     # если бы первое фото не успевало удаляться из DOM-дерева после перемещения
     # и в photos_in_gallery попадало 4 фотографии
     # wait.until(lambda d: len(d.find_elements(By.CSS_SELECTOR, "#gallery li")) == 3)
